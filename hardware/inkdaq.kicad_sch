@@ -15102,6 +15102,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2057429"
+			(at 146.05 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "5d7e165c-0a2e-4a9f-b0e6-b877e83043e6")
 		)
@@ -15183,6 +15192,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 133.35 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C851698"
+			(at 133.35 104.14 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15581,6 +15599,15 @@
 		)
 		(property "Description" "ALPSALPINE HSFPAR Series High-sensitivity Force Sensor"
 			(at 88.9 119.888 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C470800"
+			(at 88.9 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
