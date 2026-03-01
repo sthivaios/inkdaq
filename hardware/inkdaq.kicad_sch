@@ -2,8 +2,18 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid e4f47a09-4159-47fb-bd7d-2f137d6182a4)
+	(uuid "e4f47a09-4159-47fb-bd7d-2f137d6182a4")
 	(paper "A4")
+	(title_block
+		(title "InkDAQ - Pen sensor board")
+		(date "2026-03-01")
+		(rev "1.0")
+		(company "Stratos Thivaios")
+		(comment 1 "CERN Open Hardware License v2 - Strongly Reciprocal")
+		(comment 2 "Copyright © 2026 Stratos Thivaios")
+		(comment 3 "github.com/sthivaios/inkdaq")
+		(comment 4 "InkDAQ - An opensource data acquisition system for handwriting telemetry")
+	)
 	(lib_symbols)
 	(sheet_instances
 		(path "/"
