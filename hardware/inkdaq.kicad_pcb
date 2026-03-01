@@ -10,7 +10,7 @@
 	(title_block
 		(title "InkDAQ - Pen sensor board")
 		(date "2026-03-01")
-		(rev "1.0")
+		(rev "1.1")
 		(company "Stratos Thivaios")
 		(comment 1 "CERN Open Hardware License v2 - Strongly Reciprocal")
 		(comment 2 "Copyright © 2026 Stratos Thivaios")
