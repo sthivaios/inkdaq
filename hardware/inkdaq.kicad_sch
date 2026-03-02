@@ -14998,7 +14998,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_Wire:SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm"
+		(property "Footprint" "inkdaq_footprints:WirePad_1mm_Square"
 			(at 177.8 101.6 0)
 			(effects
 				(font
@@ -15310,7 +15310,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "98747351-f12b-405a-8c16-d652d99ff4c5")
 		(property "Reference" "J4"
 			(at 180.34 113.0299 0)
@@ -15330,8 +15329,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_Wire:SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm"
-			(at 177.8 114.3 0)
+		(property "Footprint" "inkdaq_footprints:WirePad_1mm_Square"
+			(at 177.8 120.904 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15397,7 +15396,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_Wire:SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm"
+		(property "Footprint" "inkdaq_footprints:WirePad_1mm_Square"
 			(at 177.8 107.95 0)
 			(effects
 				(font
@@ -15464,7 +15463,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_Wire:SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm"
+		(property "Footprint" "inkdaq_footprints:WirePad_1mm_Square"
 			(at 177.8 95.25 0)
 			(effects
 				(font
