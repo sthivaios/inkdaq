@@ -1,4 +1,4 @@
 ﻿Designator,Footprint,Quantity,Value,LCSC Part #
 B1,HSFPAR004A,1,~,C470800
-R1,0201,1,2.05k,C851698
-U1,WSON-8-1EP_3x3mm_P0.5mm_EP1.45x2.4mm,1,INA333xxDRG,C2057429
+C1,0201,1,100nF,C22435929
+"J1, J2, J3, J4",WirePad_1mm_Square,4,Conn_01x01,
